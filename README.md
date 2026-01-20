@@ -5,9 +5,10 @@ This dataset combines multiple existing crack segmentation datasets (crack-seg, 
 
 ## Dataset Sources
 - **Public Datasets**: 
-  - [crack-seg](https://github.com/Wangyupei/Crack-Seg)
-  - [HRCDS](https://doi.org/10.1016/j.engappai.2020.103762)  
-  - [S2DS](https://s2ds.github.io/)
+  - [crack-seg](https://universe.roboflow.com/university-bswxt/crack-bphdr) 
+  - [HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1)  
+  - [S2DS](https://ben-z-original.github.io/2022_Benz_DetectionStructuralDefects.pdf)
+  - [CRSPEE](https://github.com/OSUPCVLab/CrSpEE/)
 - **Self-collected Data**: Field images from real infrastructure
 - **AI-generated Data**: Synthetic crack/spalling images
 
