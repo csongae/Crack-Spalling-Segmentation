@@ -1,7 +1,7 @@
 # Crack Spalling Segmentation Dataset
 
 ## Overview
-This dataset combines multiple existing crack segmentation datasets (crack-seg, HRCDS, S2DS) with newly collected field data and AI-generated synthetic samples. All annotations are formatted for YOLO-seg instance segmentation.
+This dataset combines multiple existing crack and segmentation datasets (crack-seg, HRCDS, S2DS, CrSpEE) with newly collected field data and AI-generated synthetic samples. All annotations are formatted for YOLO-seg instance segmentation.
 
 ## Dataset Sources
 - **Public Datasets**: 
