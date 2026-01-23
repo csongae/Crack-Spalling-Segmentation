@@ -15,9 +15,8 @@ This dataset combines multiple existing crack and segmentation datasets (crack-s
 ## Format
 YOLO-seg (instance segmentation format)
 
-## Download
+## Download (to be updated)
 Download link: [Google Drive](https://drive.google.com/drive/folders/1mtXw70kHZ8Cz8FN8Fnf11sYaH-7lJcY6?usp=sharing)
-...To be updated
 
 ## Citation
 If you use this dataset, please cite:
