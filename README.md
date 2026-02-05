@@ -15,19 +15,28 @@ This dataset combines multiple existing crack and segmentation datasets (crack-s
 ## Format
 YOLO-seg (instance segmentation format)
 
-## Download (to be updated)
-Download link: [Google Drive](https://drive.google.com/drive/folders/1mtXw70kHZ8Cz8FN8Fnf11sYaH-7lJcY6?usp=sharing)
+## Download
+Download link: [Google Drive](https://drive.google.com/drive/folders/1mtXw70kHZ8Cz8FN8Fnf11sYaH-7lJcY6?usp=sharing), [Baidu Netdisk](https://pan.baidu.com/s/4flP3zIq)
 
 ## Citation
 If you use this dataset, please cite:
 ```bibtex
-@dataset{crack_spalling_2024,
-  title = {Crack Spalling Segmentation Dataset},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/your-username/repo-name}
+@Article{buildings16030646,
+AUTHOR = {Song, Changhao and Lu, Chang and Shi, Yilong and He, Aili and Lin, Jia-Rui and Ma, Zhiliang},
+TITLE = {Simultaneous Digital Twin: Chaining Climbing-Robot, Defect Segmentation, and Model Updating for Building Facade Inspection},
+JOURNAL = {Buildings},
+VOLUME = {16},
+YEAR = {2026},
+NUMBER = {3},
+ARTICLE-NUMBER = {646},
+URL = {https://www.mdpi.com/2075-5309/16/3/646},
+ISSN = {2075-5309},
+DOI = {10.3390/buildings16030646}
 }
 ```
+
+## Acknowledgement
+We extend our sincere gratitude to Mr. Yudi Liang for his significant efforts and expertise in annotating the dataset used in this project.
 
 ## License
 MIT License
